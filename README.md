@@ -1,1 +1,1 @@
-/* This repository contains C files for practice */
+/* This repository contains C files for practice. */
